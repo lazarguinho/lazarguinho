@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando [EventFlow](https://github.com/lazarguinho/EventFlow.git)
 
-- 🌱 Atualmente estou estudando **Ciência da Computação**
+- 🌱 Atualmente estou estudando **Ciência da Computação** na [Universidade Federal do Ceará](https://www.quixada.ufc.br)
 
 <p align="left">
 </p>
